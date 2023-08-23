@@ -34,6 +34,6 @@ Olá, sou Henrique Araújo
   
  
  
-  ![Snake animation](https://github.com/Henrique8878/Henrique8878/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Henrique8878/Henrique8878/blob/output/github-contribution-grid-snake.svg)
  
 </div>
