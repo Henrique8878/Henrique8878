@@ -4,7 +4,7 @@ Olá, sou Henrique Araújo
 🌱 Estudando React.JS
 💬 Pergunte-me sobre HTML, CSS, JavaScript ...
 📫 contacte-me no email: henrique.tomaz@fagammon.edu.br
-😄 Pronouns: ele/dele
+
 
 
 
